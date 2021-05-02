@@ -1,9 +1,20 @@
 body{
-
+     	background-color: #011627;
+	color: #fdfffc;
+	text-align: center;
 }
 
 p{
 	text-align : center;
 	color : blue;
+}
+
+h1
+{
+	color: #ff9f1c;
+	font-family: 'Acme', sans-serif;
+	letter-spacing: 6px;
+	font-style: inherit;
+	font-size: 45px;
 }
 
